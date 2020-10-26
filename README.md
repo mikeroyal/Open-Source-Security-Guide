@@ -52,6 +52,14 @@
 
 [Certified Information Systems Security Professional (CISSP) Certification](https://www.isc2.org/Certifications/CISSP)
 
+[CCNP Routing and Switching](https://learningnetwork.cisco.com/s/ccnp-enterprise)
+
+[Certified Information Security Manager(CISM)](https://www.isaca.org/credentialing/cism)
+
+[Wireshark Certified Network Analyst (WCNA)](https://www.wiresharktraining.com/certification.html)
+
+[Juniper Networks Certification Program Enterprise (JNCP)](https://www.juniper.net/us/en/training/certification/)
+
 [Security Training Certifications and Courses from Udemy](https://www.udemy.com/courses/search/?src=ukw&q=secuirty)
 
 [Security Training Certifications and Courses from Coursera](https://www.coursera.org/search?query=security&)
