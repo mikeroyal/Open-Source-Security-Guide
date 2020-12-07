@@ -66,7 +66,11 @@
 
 [Security Certifications Training from Pluarlsight](https://www.pluralsight.com/browse/information-cyber-security/security-certifications)
 
-## Security Standards and Frameworks
+## Security Standards, Frameworks and Benchmarks
+
+[STIGs Benchmarks - Security Technical Implementation Guides](https://public.cyber.mil/stigs/)
+
+[CIS Benchmarks - CIS Center for Internet Security](https://www.cisecurity.org/cis-benchmarks/)
 
 [ISO Standards Catalogue](https://www.iso.org/standards.html)
 
