@@ -72,6 +72,8 @@
 
 [CIS Benchmarks - CIS Center for Internet Security](https://www.cisecurity.org/cis-benchmarks/)
 
+[NIST - Current FIPS](https://www.nist.gov/itl/current-fips)
+
 [ISO Standards Catalogue](https://www.iso.org/standards.html)
 
 [ISO 22301](https://www.iso.org/en/contents/data/standard/07/51/75106.html) is the international standard that provides a best-practice framework for implementing an optimised BCMS (business continuity management system).
