@@ -23,7 +23,7 @@
   <br />
 </p>
 
-## Open Source Secuirty Learning Resources
+## Open Source Security Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
 
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) is a cross-industry collaboration that brings together leaders to improve the security of open source software by building a broader community, targeted initiatives, and best practices. The OpenSSF brings together open source security initiatives under one foundation to accelerate work through cross-industry support. Along with the Core Infrastructure Initiative and the Open Source Security Coalition, and will include new working groups that address vulnerability disclosures, security tooling and more.
