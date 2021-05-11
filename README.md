@@ -14,7 +14,7 @@
 
 2. [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Open-Source-Security-Guide#security-standards-frameworks-and-benchmarks)
 
-3. [Secuirty Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
+3. [Security Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
 
 4. [Network Security](https://github.com/mikeroyal/Open-Source-Security-Guide#network-security)
 
