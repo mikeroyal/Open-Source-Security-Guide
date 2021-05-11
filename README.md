@@ -10,16 +10,16 @@
 
 # Table of Contents
 
-1.[Open Source Secuirty Learning Resources](https://github.com/mikeroyal/Open-Source-Security-Guide-open-source-security-learning-resources)
+1. [Open Source Security Learning Resources](https://github.com/mikeroyal/Open-Source-Security-Guide#open-source-security-learning-resources)
 
-2.[Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Open-Source-Security-Guide#security-standards-frameworks-and-benchmarks)
+2. [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Open-Source-Security-Guide#security-standards-frameworks-and-benchmarks)
 
-3.[Secuirty Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
+3. [Secuirty Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
 
-4.[Network Security](https://github.com/mikeroyal/Open-Source-Security-Guide#network-security)
+4. [Network Security](https://github.com/mikeroyal/Open-Source-Security-Guide#network-security)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/117889609-b6e90700-b268-11eb-81c7-b2d4f3d1178c.png">
   <br />
 </p>
 
