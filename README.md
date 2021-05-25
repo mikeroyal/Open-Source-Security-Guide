@@ -19,7 +19,7 @@
 4. [Network Security](https://github.com/mikeroyal/Open-Source-Security-Guide#network-security)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117889609-b6e90700-b268-11eb-81c7-b2d4f3d1178c.png">
+ <img src="https://user-images.githubusercontent.com/45159366/119560590-f7f91500-bd58-11eb-8fa4-57ba89fd58da.png">
   <br />
 </p>
 
