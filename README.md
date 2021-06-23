@@ -127,6 +127,28 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [OWASP Zed Attack Proxy (ZAP)](https://owasp.org/www-project-zap/) is a free, open-source penetration testing tool being maintained under the umbrella of the Open Web Application Security Project (OWASP). ZAP is designed specifically for testing web applications and is both flexible and extensible. Great for pentesters, devs, QA, and CI/CD integration. At its core, ZAP is what is known as a "man-in-the-middle proxy."
 
+[IDA Pro(Interactive DisAssembler Professional)](https://hex-rays.com/IDA-pro/) is a programmable and multi-processor disassembler combined with a local/remote debugger and along with a complete plugin programming environment. It's a great tool for testing and discovering security vulnerabilities.
+
+[Ghidra](https://github.com/NationalSecurityAgency/ghidra) is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze any malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems.
+
+[DataWave](https://github.com/NationalSecurityAgency/datawave) is an ingest/query framework that leverages [Apache Accumulo](https://accumulo.apache.org/) to provide fast, secure data access.
+
+[Emissary](https://github.com/NationalSecurityAgency/emissary) is a P2P based data-driven workflow engine that runs in a heterogeneous possibly widely dispersed, multi-tiered P2P network of compute resources. Workflow itineraries are not pre-planned as in conventional workflow engines, but are discovered as more information is discovered about the data.
+
+[MADCert](https://github.com/NationalSecurityAgency/MADCert) is a cross-platform tool that consists of a certificate generator, a file system certificate manager, and a command line interface for the purposes of testing.
+
+[BLESS(Bastion's Lambda Ephemeral SSH Service)](https://github.com/Netflix/bless) is an SSH Certificate Authority that runs as an AWS Lambda function and is used to sign SSH public keys.
+
+[Zuul](https://github.com/Netflix/zuul) is an [L7 application gateway](https://www.f5.com/services/resources/glossary/application-layer-gateway) that provides capabilities for dynamic routing, monitoring, resiliency, security, and more.
+
+[Chaos Monkey](https://github.com/Netflix/chaosmonkey) is a resiliency tool that helps applications tolerate random instance failures. It is fully integrated with [Spinnaker](https://www.spinnaker.io/), the continuous delivery platform. Chaos Monkey will work with any backend that Spinnaker supports (AWS, Google Compute Engine, Azure, Kubernetes, Cloud Foundry).
+
+[Priam](https://github.com/Netflix/Priam) is a tool/process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
+
+[Vector](https://github.com/Netflix/vector) is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
+
+[Atlas](https://github.com/Netflix/atlas) is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
+
 [SELinux](https://github.com/SELinuxProject/selinux) is a security enhancement to Linux which allows users and administrators more control over access control. Access can be constrained on such variables as which users and applications can access which resources. These resources may take the form of files. Standard Linux access controls, such as file modes (-rwxr-xr-x) are modifiable by the user and the applications which the user runs. Conversely, SELinux access controls are determined by a policy loaded on the system which may not be changed by careless users or misbehaving applications.
 
 [AppArmor](https://www.apparmor.net/) is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited. AppArmor supplements the traditional Unix discretionary access control (DAC) model by providing mandatory access control (MAC). It has been included in the mainline Linux kernel since version 2.6.36 and its development has been supported by Canonical since 2009.
