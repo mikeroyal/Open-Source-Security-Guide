@@ -118,10 +118,6 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
 
-[BitLocker Drive Encryption](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) is a data protection feature that integrates with the Windows operating system and addresses the threats of data theft or exposure from lost, stolen, or inappropriately decommissioned computers. BitLocker provides the most protection when used with a Trusted Platform Module (TPM) version 1.2 or later.
-
-[Trusted Platform Module (TPM)](https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-overview) is a technology module designed to provide hardware-based, security-related functions. A TPM chip is a secure crypto-processor that is designed to carry out cryptographic operations.
-
 # Security Tools
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
 
@@ -130,6 +126,8 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Virtualization-based Security (VBS)](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs) is a hardware virtualization feature to create and isolate a secure region of memory from the normal operating system.
 
 [Hypervisor-Enforced Code Integrity (HVCI)](https://docs.microsoft.com/en-us/windows-hardware/drivers/bringup/device-guard-and-credential-guard) is a mechanism whereby a hypervisor, such as Hyper-V, uses hardware virtualization to protect kernel-mode processes against the injection and execution of malicious or unverified code. Code integrity validation is performed in a secure environment that is resistant to attack from malicious software, and page permissions for kernel mode are set and maintained by the hypervisor.
+
+[Landlock LSM(Linux Security Module)](https://www.kernel.org/doc/html/latest/security/landlock.html) is to create scoped access-control (sandboxing). To harden a whole system, this feature should be available to any process, including unprivileged ones. Because such process may be compromised or backdoored (untrusted), Landlock’s features must be safe to use from the kernel and other processes point of view. Landlock’s interface must therefore expose a minimal attack surface. It is designed to be usable by unprivileged processes while following the system security policy enforced by other access control mechanisms (DAC, LSM(Linux Security Module)).
 
 [eBPF](https://ebpf.io/) is a technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading kernel modules. By making the Linux kernel programmable, infrastructure software can leverage existing layers, making them more intelligent and feature-rich without continuing to add additional layers of complexity to the system.
 
