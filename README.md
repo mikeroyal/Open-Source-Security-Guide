@@ -143,6 +143,12 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Ghidra](https://github.com/NationalSecurityAgency/ghidra) is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze any malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems.
 
+[Exploit Database](https://www.exploit-db.com/) is a CVE compliant archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers. The goal is to serve the most comprehensive collection of exploits gathered through direct submissions, mailing lists, as well as other public sources, and present them.
+
+[Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/) is a curated repository of vetted computer software exploits and exploitable vulnerabilities. Technical details for over 180,000 vulnerabilities and 4,000 exploits are available for security professionals and researchers to review. These vulnerabilities are utilized by our vulnerability management tool [InsightVM](https://www.rapid7.com/products/insightvm/).
+
+[InsightVM](https://www.rapid7.com/products/insightvm/) is a data-rich resource that can amplify the other solutions in your tech stack, from SIEMs and firewalls to ticketing systems. Only InsightVM integrates with 40+ other leading technologies, and with an open RESTful API, your vulnerability data makes your other tools more valuable.
+
 [DataWave](https://github.com/NationalSecurityAgency/datawave) is an ingest/query framework that leverages [Apache Accumulo](https://accumulo.apache.org/) to provide fast, secure data access.
 
 [Emissary](https://github.com/NationalSecurityAgency/emissary) is a P2P based data-driven workflow engine that runs in a heterogeneous possibly widely dispersed, multi-tiered P2P network of compute resources. Workflow itineraries are not pre-planned as in conventional workflow engines, but are discovered as more information is discovered about the data.
