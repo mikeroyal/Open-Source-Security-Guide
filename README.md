@@ -93,6 +93,8 @@
 
 [CIS Benchmarks - CIS Center for Internet Security](https://www.cisecurity.org/cis-benchmarks/)
 
+[CIS Top 18 Critical Seccurity Controls](https://www.cisecurity.org/controls/cis-controls-list)
+
 [NIST - Current FIPS](https://www.nist.gov/itl/current-fips)
 
 [ISO Standards Catalogue](https://www.iso.org/standards.html)
