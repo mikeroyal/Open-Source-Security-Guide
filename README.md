@@ -95,6 +95,10 @@
 
 [CIS Top 18 Critical Seccurity Controls](https://www.cisecurity.org/controls/cis-controls-list)
 
+[OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
+
+[NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
+
 [NIST - Current FIPS](https://www.nist.gov/itl/current-fips)
 
 [ISO Standards Catalogue](https://www.iso.org/standards.html)
