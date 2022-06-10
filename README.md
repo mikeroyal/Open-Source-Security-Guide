@@ -80,7 +80,7 @@
 
 [Juniper Networks Certification Program Enterprise (JNCP)](https://www.juniper.net/us/en/training/certification/)
 
-[Security Training Certifications and Courses from Udemy](https://www.udemy.com/courses/search/?src=ukw&q=secuirty)
+[Security Training Certifications and Courses from Udemy](https://www.udemy.com/courses/search/?src=ukw&q=security)
 
 [Security Training Certifications and Courses from Coursera](https://www.coursera.org/search?query=security&)
 
