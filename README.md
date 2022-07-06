@@ -76,7 +76,7 @@
 
  - [Certified Information Systems Security Professional (CISSP) Certification](https://www.isc2.org/Certifications/CISSP)
 
-  -[CCNP Routing and Switching](https://learningnetwork.cisco.com/s/ccnp-enterprise)
+ - [CCNP Routing and Switching](https://learningnetwork.cisco.com/s/ccnp-enterprise)
 
  - [Certified Information Security Manager(CISM)](https://www.isaca.org/credentialing/cism)
 
