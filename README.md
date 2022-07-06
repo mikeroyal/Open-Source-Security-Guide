@@ -28,63 +28,67 @@
 
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) is a cross-industry collaboration that brings together leaders to improve the security of open source software by building a broader community, targeted initiatives, and best practices. The OpenSSF brings together open source security initiatives under one foundation to accelerate work through cross-industry support. Along with the Core Infrastructure Initiative and the Open Source Security Coalition, and will include new working groups that address vulnerability disclosures, security tooling and more.
 
-[Microsoft Open Source Software Security](https://www.microsoft.com/en-us/securityengineering/opensource)
+### Security Tutorials & Resources
 
-[Cloudflare Open Source Security](https://cloudflare.github.io)
+ - [Microsoft Open Source Software Security](https://www.microsoft.com/en-us/securityengineering/opensource)
 
-[The Seven Properties of Highly Secure Devices](https://www.microsoft.com/en-us/research/publication/seven-properties-highly-secure-devices/)
+ - [Cloudflare Open Source Security](https://cloudflare.github.io)
 
-[How Layer 7 of the Internet Works](https://www.cloudflare.com/learning/ddos/what-is-layer-7/)
+ - [The Seven Properties of Highly Secure Devices](https://www.microsoft.com/en-us/research/publication/seven-properties-highly-secure-devices/)
 
-[The 7 Kinds of Security](https://www.veracode.com/sites/default/files/Resources/eBooks/7-kinds-of-security.pdf)
+ - [How Layer 7 of the Internet Works](https://www.cloudflare.com/learning/ddos/what-is-layer-7/)
 
-[The Libgcrypt Reference Manual](https://www.gnupg.org/documentation/manuals/gcrypt/)
+ - [The 7 Kinds of Security](https://www.veracode.com/sites/default/files/Resources/eBooks/7-kinds-of-security.pdf)
 
-[The Open Web Application Security Project(OWASP) Foundation Top 10](https://owasp.org/www-project-top-ten/)
+ - [The Libgcrypt Reference Manual](https://www.gnupg.org/documentation/manuals/gcrypt/)
 
-[Best Practices for Using Open Source Code from The Linux Foundation](https://www.linuxfoundation.org/blog/2017/11/best-practices-using-open-source-code/)
+ - [The Open Web Application Security Project(OWASP) Foundation Top 10](https://owasp.org/www-project-top-ten/)
 
-[AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
+ - [Best Practices for Using Open Source Code from The Linux Foundation](https://www.linuxfoundation.org/blog/2017/11/best-practices-using-open-source-code/)
+ 
+ ### Security Certifications
 
-[Microsoft Certified: Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
+ - [AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
 
-[Google Cloud Certified Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
+ - [Microsoft Certified: Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
 
-[Cisco Security Certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/security.html)
+ - [Google Cloud Certified Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
 
-[The Red Hat Certified Specialist in Security: Linux](https://www.redhat.com/en/services/training/ex415-red-hat-certified-specialist-security-linux-exam)
+ - [Cisco Security Certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/security.html)
 
-[Linux Professional Institute LPIC-3 Enterprise Security Certification](https://www.lpi.org/our-certifications/lpic-3-303-overview)
+ - [The Red Hat Certified Specialist in Security: Linux](https://www.redhat.com/en/services/training/ex415-red-hat-certified-specialist-security-linux-exam)
 
-[Cybersecurity Training and Courses from IBM Skills](https://www.ibm.com/skills/topics/cybersecurity/)
+ - [Linux Professional Institute LPIC-3 Enterprise Security Certification](https://www.lpi.org/our-certifications/lpic-3-303-overview)
 
-[Cybersecurity Courses and Certifications by Offensive Security](https://www.offensive-security.com/courses-and-certifications/)
+ - [Cybersecurity Training and Courses from IBM Skills](https://www.ibm.com/skills/topics/cybersecurity/)
 
-[RSA Certification Program](https://community.rsa.com/community/training/certification)
+ - [Cybersecurity Courses and Certifications by Offensive Security](https://www.offensive-security.com/courses-and-certifications/)
 
-[Check Point Certified Security Expert(CCSE) Certification](https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Expert%20(CCSE)%20R80.x)
+ - [RSA Certification Program](https://community.rsa.com/community/training/certification)
 
-[Check Point Certified Security Administrator(CCSA) Certification](https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Admin%20(CCSA)%20R80.x)
+ - [Check Point Certified Security Expert(CCSE) Certification](https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Expert%20(CCSE)%20R80.x)
 
-[Check Point Certified Security Master (CCSM) Certification](https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Master%20(CCSM)%20R80.x)
+ - [Check Point Certified Security Administrator(CCSA) Certification](https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Admin%20(CCSA)%20R80.x)
 
-[Certified Cloud Security Professional(CCSP) Certification](https://www.isc2.org/Certifications/CCSP)
+ - [Check Point Certified Security Master (CCSM) Certification](https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Master%20(CCSM)%20R80.x)
 
-[Certified Information Systems Security Professional (CISSP) Certification](https://www.isc2.org/Certifications/CISSP)
+ - [Certified Cloud Security Professional(CCSP) Certification](https://www.isc2.org/Certifications/CCSP)
 
-[CCNP Routing and Switching](https://learningnetwork.cisco.com/s/ccnp-enterprise)
+ - [Certified Information Systems Security Professional (CISSP) Certification](https://www.isc2.org/Certifications/CISSP)
 
-[Certified Information Security Manager(CISM)](https://www.isaca.org/credentialing/cism)
+  -[CCNP Routing and Switching](https://learningnetwork.cisco.com/s/ccnp-enterprise)
 
-[Wireshark Certified Network Analyst (WCNA)](https://www.wiresharktraining.com/certification.html)
+ - [Certified Information Security Manager(CISM)](https://www.isaca.org/credentialing/cism)
 
-[Juniper Networks Certification Program Enterprise (JNCP)](https://www.juniper.net/us/en/training/certification/)
+ - [Wireshark Certified Network Analyst (WCNA)](https://www.wiresharktraining.com/certification.html)
 
-[Security Training Certifications and Courses from Udemy](https://www.udemy.com/courses/search/?src=ukw&q=secuirty)
+ - [Juniper Networks Certification Program Enterprise (JNCP)](https://www.juniper.net/us/en/training/certification/)
 
-[Security Training Certifications and Courses from Coursera](https://www.coursera.org/search?query=security&)
+ - [Security Training Certifications and Courses from Udemy](https://www.udemy.com/courses/search/?src=ukw&q=secuirty)
 
-[Security Certifications Training from Pluarlsight](https://www.pluralsight.com/browse/information-cyber-security/security-certifications)
+ - [Security Training Certifications and Courses from Coursera](https://www.coursera.org/search?query=security&)
+
+ - [Security Certifications Training from Pluarlsight](https://www.pluralsight.com/browse/information-cyber-security/security-certifications)
 
 # Security Standards, Frameworks and Benchmarks
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
@@ -146,6 +150,22 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [eNgine](https://github.com/yogeshojha/rengine) is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive UI. 
 
 [Osmedeus](https://github.com/j3ssie/osmedeus) is a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets.
+
+[OWASP Nettacker](https://github.com/OWASP/Nettacker) is a project created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software will utilize TCP SYN, ACK, ICMP, and many other protocols in order to detect and bypass Firewall/IDS/IPS devices. 
+
+[Terrascan](https://runterrascan.io/) is a static code analyzer for Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. 
+
+[Sliver](https://github.com/BishopFox/sliver) is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys.
+
+[Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) is a [Microsoft](https://github.com/microsoft/) developed open source security tool that analyzes the attack surface of a target system and reports on potential security vulnerabilities introduced during the installation of software or system misconfiguration.
+
+[Intel Owl](https://intelowl.readthedocs.io/) is an Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. It integrates a number of analyzers available online and a lot of cutting-edge malware analysis tools.
+
+[Deepfence ThreatMapper](https://deepfence.io/) is a runtime tool that hunts for vulnerabilities in your cloud native production platforms(Linux, K8s, AWS Fargate and more.), and ranks these vulnerabilities based on their risk-of-exploit. 
+
+[Dockle](https://containers.goodwith.tech/) is a Container Image Linter for Security and helping build the Best-Practice Docker Image.
+
+[SpiceDB](https://docs.authzed.com/) is an open source database system for managing security-critical application permissions inspired by Google's [Zanzibar](https://authzed.com/blog/what-is-zanzibar/) paper.
 
 [Virtualization-based Security (VBS)](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs) is a hardware virtualization feature to create and isolate a secure region of memory from the normal operating system.
 
