@@ -142,6 +142,14 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Netdata](https://github.com/netdata/netdata) is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
+[Themis](https://cossacklabs.com/themis) is a free open-source high-level cryptographic library for mobile and backend platforms. Recommended by OWASP for application security, it allows protecting sensitive data (PII, locations, messages, etc.). While giving easy-to-use and hard-to-misuse API, Themis works to provide secure data storage, message exchange, socket connections, and authentication in apps across 15 platforms and languages.
+
+[OWASP](https://www.owasp.org/index.php/Main_Page) is an online community, produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+
+[OpenSCAP](https://www.open-scap.org/) is U.S. standard maintained by [National Institute of Standards and Technology (NIST)](https://www.nist.gov/). It provides multiple tools to assist administrators and auditors with assessment, measurement, and enforcement of security baselines. OpenSCAP maintains great flexibility and interoperability by reducing the costs of performing security audits. Whether you want to evaluate DISA STIGs, NIST‘s USGCB, or Red Hat’s Security Response Team’s content, all are supported by OpenSCAP.
+
+[Open Vulnerability and Assessment Language](https://oval.mitre.org/) is a community effort to standardize how to assess and report upon the machine state of computer systems. OVAL includes a language to encode system details, and community repositories of content. Tools and services that use OVAL provide enterprises with accurate, consistent, and actionable information to improve their security.
+
 [Trivy](https://aquasecurity.github.io/trivy/) is a comprehensive security scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
 
 [Lynis](https://cisofy.com/lynis/) is a security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. 
@@ -165,6 +173,30 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) is a list of useful payloads and bypass for Web Application Security and Pentest/CTF. 
 
 [TheHive](https://thehive-project.org/) is a scalable 3-in-1 open source and free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly. It is the perfect companion to [MISP](http://www.misp-project.org/). 
+
+[MITRE ATT&CK®](https://attack.mitre.org/) is a global knowledge base of adversary tactics and techniques based on real-world security observations. It is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
+
+[CALDERA™](https://caldera.mitre.org/) is a cyber security platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response.
+
+[Atomic Red Team™](https://github.com/redcanaryco/atomic-red-team) is a library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework. Security teams can use Atomic Red Team to quickly, portably, and reproducibly test their environments.
+
+[OpenCTI](https://www.opencti.io/) is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
+
+[Amass](https://owasp.org/www-project-amass/) is an OWASP Project that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+
+[IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
+
+[MISP](https://www.misp-project.org/) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. MISP is designed by and for incident analysts, security and ICT professionals or malware reversers to support their day-to-day operations to share structured information efficiently.
+
+[Rapid7 Nexpose](https://www.rapid7.com/products/nexpose/) is a vulnerability scanner which aims to support the entire vulnerability management lifecycle, including discovery, detection, verification, risk classification, impact analysis, reporting and mitigation. It integrates with Rapid7's Metasploit for vulnerability exploitation.
+
+[Nikto](https://github.com/sullo/nikto) is an Open Source web server scanner which performs comprehensive tests against web servers for multiple items, including over 6400 potentially dangerous files/CGIs, checks for outdated versions of over 1200 servers, and version specific problems on over 270 servers.
+
+[Scapy](https://scapy.net/) is a powerful interactive packet manipulation tool, packet generator, network scanner, network discovery tool, and packet sniffer.
+
+[OSSEC HIDS(Host Intrusion Detection System)](https://www.ossec.net/) is an open source security tool that performs log analysis, integrity checking, rootkit detection, time-based alerting and active response. In addition to its IDS functionality, it is commonly used as a SEM/SIM solution.
+
+[OpenMPTCProuter](https://www.openmptcprouter.com/) is a tool that uses [MultiPath TCP (MPTCP)](https://www.multipath-tcp.org/) to really aggregate multiple Internet connections and [OpenWrt](https://openwrt.org/).
 
 [Cortex](https://thehive-project.org/) is a Powerful Observable Analysis and Active Response Engine. This solves a common problem frequently encountered by SOCs, CSIRTs and security researchers in the course of threat intelligence, digital forensics and incident response.
  
@@ -262,8 +294,6 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Certgen](https://github.com/cilium/certgen) is a convenience tool to generate and store certificates for Hubble Relay mTLS.
 
-[Scapy](https://scapy.net/) is a python-based interactive packet manipulation program & library.
-
 [syzkaller](https://github.com/google/syzkaller) is an unsupervised, coverage-guided kernel fuzzer.
 
 [SchedViz](https://github.com/google/schedviz) is a tool for gathering and visualizing kernel scheduling traces on Linux machines.
@@ -288,15 +318,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Wireshark](https://www.wireshark.org/) is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. 
 
-[OpenSCAP](https://www.open-scap.org/) is U.S. standard maintained by [National Institute of Standards and Technology (NIST)](https://www.nist.gov/). It provides multiple tools to assist administrators and auditors with assessment, measurement, and enforcement of security baselines. OpenSCAP maintains great flexibility and interoperability by reducing the costs of performing security audits. Whether you want to evaluate DISA STIGs, NIST‘s USGCB, or Red Hat’s Security Response Team’s content, all are supported by OpenSCAP.
-
 [Tink](https://github.com/google/tink) is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and harder to misuse. 
-
-[Themis](https://cossacklabs.com/themis) is a free open-source high-level cryptographic library for mobile and backend platforms. Recommended by OWASP for application security, it allows protecting sensitive data (PII, locations, messages, etc.). While giving easy-to-use and hard-to-misuse API, Themis works to provide secure data storage, message exchange, socket connections, and authentication in apps across 15 platforms and languages.
-
-[OWASP](https://www.owasp.org/index.php/Main_Page) is an online community, produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
-
-[Open Vulnerability and Assessment Language](https://oval.mitre.org/) is a community effort to standardize how to assess and report upon the machine state of computer systems. OVAL includes a language to encode system details, and community repositories of content. Tools and services that use OVAL provide enterprises with accurate, consistent, and actionable information to improve their security.
 
 [ClamAV](https://www.clamav.net/) is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
