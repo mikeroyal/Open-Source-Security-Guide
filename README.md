@@ -51,6 +51,16 @@
  
  - [macOS Security Compliance Project](https://github.com/usnistgov/macos_security)
  
+ * [GitGuardian API Security Best Practice](https://github.com/GitGuardian/APISecurityBestPractices)
+
+ * [Open Source Security Foundation (OpenSSF) npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md)
+
+ * [Open Source Security Foundation (OpenSSF) Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-os-developers)
+
+ * [Open Source Security Foundation (OpenSSF) Identifying Security Threats in Open Source Projects](https://github.com/ossf/wg-identifying-security-threats)
+
+ * [Securing The Software Supply Chain: Recommended Practices Guide for Developers | CISA, NSA, and ODNI (PDF)](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
+ 
  ### Security Certifications
 
  - [AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
