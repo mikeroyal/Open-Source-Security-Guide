@@ -109,19 +109,19 @@
 # Security Standards, Frameworks and Benchmarks
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
 
-[STIGs Benchmarks - Security Technical Implementation Guides](https://public.cyber.mil/stigs/)
+ * [STIGs Benchmarks - Security Technical Implementation Guides](https://public.cyber.mil/stigs/)
 
-[CIS Benchmarks - CIS Center for Internet Security](https://www.cisecurity.org/cis-benchmarks/)
+ * [CIS Benchmarks - CIS Center for Internet Security](https://www.cisecurity.org/cis-benchmarks/)
 
-[CIS Top 18 Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
+ * [CIS Top 18 Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
 
-[OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
+ * [OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
 
-[NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
+ * [NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
 
-[NIST - Current FIPS](https://www.nist.gov/itl/current-fips)
+ * [NIST - Current FIPS](https://www.nist.gov/itl/current-fips)
 
-[ISO Standards Catalogue](https://www.iso.org/standards.html)
+ * [ISO Standards Catalogue](https://www.iso.org/standards.html)
 
 [Common Criteria for Information Technology Security Evaluation (CC)](https://www.commoncriteriaportal.org/cc/) is an international standard (ISO / IEC 15408) for computer security. It allows an objective evaluation to validate that a particular product satisfies a defined set of security requirements. 
 
