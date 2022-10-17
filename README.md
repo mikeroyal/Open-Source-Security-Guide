@@ -13,6 +13,8 @@
 1. [Open Source Security Learning Resources](https://github.com/mikeroyal/Open-Source-Security-Guide#open-source-security-learning-resources)
 
 2. [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Open-Source-Security-Guide#security-standards-frameworks-and-benchmarks)
+    * [Security Benchmarks](#Security-Benchmarks)
+    * [Security Standards & Frameworks](#Security-Standards--Frameworks)
     * [Security Threat Models](#Security-Threat-Models)
 
 3. [Security Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
@@ -109,6 +111,10 @@
 # Security Standards, Frameworks and Benchmarks
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
 
+### Security Benchmarks
+
+[Back to the Top](#table-of-contents)
+
  * [STIGs Benchmarks - Security Technical Implementation Guides](https://public.cyber.mil/stigs/)
 
  * [CIS Benchmarks - CIS Center for Internet Security](https://www.cisecurity.org/cis-benchmarks/)
@@ -121,7 +127,11 @@
 
  * [NIST - Current FIPS](https://www.nist.gov/itl/current-fips)
 
- * [ISO Standards Catalogue](https://www.iso.org/standards.html)
+### Security Standards & Frameworks
+
+[Back to the Top](#table-of-contents)
+
+* [ISO Standards Catalogue](https://www.iso.org/standards.html)
 
 [Common Criteria for Information Technology Security Evaluation (CC)](https://www.commoncriteriaportal.org/cc/) is an international standard (ISO / IEC 15408) for computer security. It allows an objective evaluation to validate that a particular product satisfies a defined set of security requirements. 
 
@@ -129,18 +139,17 @@
 
 [ISO27001](https://www.iso.org/isoiec-27001-information-security.html) is the international standard that describes the requirements for an ISMS (information security management system). The framework is designed to help organizations manage their security practices in one place, consistently and cost-effectively.
 
-[ISO 27701](https://www.iso.org/en/contents/data/standard/07/16/71670.html) specifies the requirements for a PIMS (privacy information management system) based on the requirements of ISO 27001.
-It is extended by a set of privacy-specific requirements, control objectives and controls. Companies that have implemented ISO 27001 will be able to use ISO 27701 to extend their security efforts to cover privacy management.
+[ISO 27701](https://www.iso.org/en/contents/data/standard/07/16/71670.html) specifies the requirements for a PIMS (privacy information management system) based on the requirements of ISO 27001. It is extended by a set of privacy-specific requirements, control objectives and controls. Companies that have implemented ISO 27001 will be able to use ISO 27701 to extend their security efforts to cover privacy management.
+
+[SOC 2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html) is an auditing procedure that ensures your service providers securely manage your data to protect the interests of your comapny/organization and the privacy of their clients. 
+
+[NIST CSF](https://www.nist.gov/national-security-standards) is a voluntary framework primarily intended for critical infrastructure organizations to manage and mitigate cybersecurity risk based on existing best practice.
 
 [EU GDPR (General Data Protection Regulation)](https://gdpr.eu/) is a privacy and data protection law that supersedes existing national data protection laws across the EU, bringing uniformity by introducing just one main data protection law for companies/organizations to comply with.
 
 [CCPA (California Consumer Privacy Act)](https://www.oag.ca.gov/privacy/ccpa) is a data privacy law that took effect on January 1, 2020 in the State of California. It applies to businesses that collect California residents’ personal information, and its privacy requirements are similar to those of the EU’s GDPR (General Data Protection Regulation).
 
 [Payment Card Industry (PCI) Data Security Standards (DSS)](https://docs.microsoft.com/en-us/microsoft-365/compliance/offering-pci-dss) is a global information security standard designed to prevent fraud through increased control of credit card data.
-
-[SOC 2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html) is an auditing procedure that ensures your service providers securely manage your data to protect the interests of your comapny/organization and the privacy of their clients. 
-
-[NIST CSF](https://www.nist.gov/national-security-standards) is a voluntary framework primarily intended for critical infrastructure organizations to manage and mitigate cybersecurity risk based on existing best practice.
 
 [Landlock LSM(Linux Security Module)](https://www.kernel.org/doc/html/latest/security/landlock.html) is a framework to create scoped access-control (sandboxing). Landlock is designed to be usable by unprivileged processes while following the system security policy enforced by other access control mechanisms (DAC, LSM, etc.).
 
