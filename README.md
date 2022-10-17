@@ -10,7 +10,9 @@
 
 # Table of Contents
 
-1. [Open Source Security Learning Resources](https://github.com/mikeroyal/Open-Source-Security-Guide#open-source-security-learning-resources)
+1. [Getting Started with with Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide#getting-started-with-open-source-security)
+    * [Security Tutorials & Resources](#Security-Tutorials--Resources)
+    * [Security Certifications](#Security-Certifications)
 
 2. [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Open-Source-Security-Guide#security-standards-frameworks-and-benchmarks)
     * [Security Benchmarks](#Security-Benchmarks)
@@ -26,12 +28,14 @@
   <br />
 </p>
 
-## Open Source Security Learning Resources
-[Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
+## Getting Started with Open Source Security
+[Back to the Top](#table-of-contents)
 
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) is a cross-industry collaboration that brings together leaders to improve the security of open source software by building a broader community, targeted initiatives, and best practices. The OpenSSF brings together open source security initiatives under one foundation to accelerate work through cross-industry support. Along with the Core Infrastructure Initiative and the Open Source Security Coalition, and will include new working groups that address vulnerability disclosures, security tooling and more.
 
 ### Security Tutorials & Resources
+
+[Back to the Top](#table-of-contents)
 
  - [Microsoft Open Source Software Security](https://www.microsoft.com/en-us/securityengineering/opensource)
 
@@ -65,6 +69,8 @@
  * [Securing The Software Supply Chain: Recommended Practices Guide for Developers | CISA, NSA, and ODNI (PDF)](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
  
  ### Security Certifications
+ 
+[Back to the Top](#table-of-contents)
 
  - [AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
 
