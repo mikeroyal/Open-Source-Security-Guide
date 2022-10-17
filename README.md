@@ -225,6 +225,12 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [CALDERA™](https://caldera.mitre.org/) is a cyber security platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response.
 
+[Pyrsia](https://pyrsia.io/) is a Decentralized Package Network that aims to secure the software supply chain of open-source dependencies by creating a system that secures open-source builds and distribution.
+
+[GitGuardian shield (ggshield)](https://github.com/GitGuardian/ggshield) is a CLI application that runs in your local environment or in a CI environment to help you detect more than 350+ types of secrets, as well as other potential security vulnerabilities or policy breaks.
+
+[ggshield-action](https://github.com/GitGuardian/ggshield-action) is a GitGuardian Shield GitHub Action to find exposed credentials in your commits.
+
 [Atomic Red Team™](https://github.com/redcanaryco/atomic-red-team) is a library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework. Security teams can use Atomic Red Team to quickly, portably, and reproducibly test their environments.
 
 [OpenCTI](https://www.opencti.io/) is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
