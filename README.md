@@ -4,7 +4,7 @@
   Open Source Security Guide
 </h1>
 
-#### A guide covering Security including the applications, libraries and tools that will make you better and more efficient at securing your system operations and newtorks.
+#### A guide covering Security including the applications, libraries and tools that will make you better and more efficient at securing your system operations and networks.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
