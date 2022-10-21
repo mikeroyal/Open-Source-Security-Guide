@@ -431,42 +431,6 @@
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
   <br />
 </p>
-
-## Networking Learning Resources
-  
-[AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
-
-[Microsoft Certified: Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
-
-[Google Cloud Certified Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
-
-[Cisco Security Certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/security.html)
-
-[The Red Hat Certified Specialist in Security: Linux](https://www.redhat.com/en/services/training/ex415-red-hat-certified-specialist-security-linux-exam)
-
-[Linux Professional Institute LPIC-3 Enterprise Security Certification](https://www.lpi.org/our-certifications/lpic-3-303-overview)
-
-[Cybersecurity Training and Courses from IBM Skills](https://www.ibm.com/skills/topics/cybersecurity/)
-
-[Cybersecurity Courses and Certifications by Offensive Security](https://www.offensive-security.com/courses-and-certifications/)  
-  
-[Citrix Certified Associate – Networking(CCA-N)](http://training.citrix.com/cms/index.php/certification/networking/)
-
-[Citrix Certified Professional – Virtualization(CCP-V)](https://www.globalknowledge.com/us-en/training/certification-prep/brands/citrix/section/virtualization/citrix-certified-professional-virtualization-ccp-v/)
-
-[CCNP Routing and Switching](https://learningnetwork.cisco.com/s/ccnp-enterprise)
-
-[Certified Information Security Manager(CISM)](https://www.isaca.org/credentialing/cism)
-
-[Wireshark Certified Network Analyst (WCNA)](https://www.wiresharktraining.com/certification.html)
-
-[Juniper Networks Certification Program Enterprise (JNCP)](https://www.juniper.net/us/en/training/certification/)
-
-[Networking courses and specializations from Coursera](https://www.coursera.org/browse/information-technology/networking)
-
-[Network & Security Courses from Udemy](https://www.udemy.com/courses/it-and-software/network-and-security/)
-
-[Network & Security Courses from edX](https://www.edx.org/learn/cybersecurity)
   
 ## Networking Tools & Concepts
 
