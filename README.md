@@ -51,6 +51,8 @@
  - [The Libgcrypt Reference Manual](https://www.gnupg.org/documentation/manuals/gcrypt/)
 
  - [The Open Web Application Security Project(OWASP) Foundation Top 10](https://owasp.org/www-project-top-ten/)
+ 
+ - [Common Weakness Enumeration (CWE) Top 25](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html)
 
  - [Best Practices for Using Open Source Code from The Linux Foundation](https://www.linuxfoundation.org/blog/2017/11/best-practices-using-open-source-code/)
  - [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security)
