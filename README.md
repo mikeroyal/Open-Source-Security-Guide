@@ -256,6 +256,22 @@
 
 [gosec](https://github.com/securego/gosec) is a Golang Security Checker that inspects source code for security problems by scanning the Go AST.
 
+[Age](https://age-encryption.org/) is a simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. 
+
+[SOPS](https://github.com/mozilla/sops) is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
+
+[Tailnet lock](https://tailscale.com/kb/1226/tailnet-lock/) is a tool that allows you to verify that no node is added to your tailnet without being signed by trusted nodes in your tailnet. When tailnet lock is enabled, even if Tailscale infrastructure is malicious or hacked, attackers can’t send or receive traffic on your tailnet.
+
+[Sandstorm](https://sandstorm.io/) is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. 
+
+[mkcert](https://mkcert.dev/) is a simple zero-config tool to make locally trusted development certificates with any names you'd like. 
+
+[Universal Radio Hacker (URH)](https://github.com/jopohl/urh) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios. URH allows easy demodulation of signals combined with an automatic detection of modulation parameters making it a breeze to identify the bits and bytes that fly over the air. 
+
+[Cloudflare Tunnel client](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide) is a tunneling daemon that proxies traffic from the Cloudflare network to your origins. This daemon sits between Cloudflare network and your origin (e.g. a webserver). Cloudflare attracts client requests and sends them to you via this daemon, without requiring you to poke holes on your firewall --- your origin can remain as closed as possible. 
+
+[Cloudflare WARP client](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/) is a tool that allows you to protect corporate devices by securely and privately sending traffic from those devices to Cloudflare’s edge, where Cloudflare Gateway can apply advanced web filtering. It also makes it possible to apply advanced Zero Trust policies that check for a device’s health before it connects to corporate applications.
+
 [Prowler](https://github.com/prowler-cloud/prowler) is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. 
 
 [eNgine](https://github.com/yogeshojha/rengine) is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive UI. 
