@@ -307,6 +307,30 @@
 
 [Amass](https://owasp.org/www-project-amass/) is an OWASP Project that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 
+[CrowdSec](https://www.crowdsec.net/) is an open-source and collaborative security stack leveraging the crowd power to generate a global CTI database to protect the user network. It will analyze behaviors, respond to attacks & share signals across the community. 
+
+[Crowdsec Firewall Bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) is a tool that will fetch new and old decisions from a CrowdSec API to add them in a blocklist used by supported firewalls.
+
+**Supported firewalls:**
+
+  * iptables (IPv4 heavy_check_mark / IPv6 heavy_check_mark )
+  * nftables (IPv4 heavy_check_mark / IPv6 heavy_check_mark )
+  * ipset only (IPv4 heavy_check_mark / IPv6 heavy_check_mark )
+  * pf (IPV4 heavy_check_mark / IPV6 heavy_check_mark )
+
+
+[Pulse](https://kean.blog/pulse/home) is a powerful logging system for Apple Platforms builtin in SwiftUI. It allows you to record and inspect logs and ```URLSession``` network requests right from your iOS app. Shared logs and view them in [Pulse Pro](https://kean.blog/pulse/pro) or use remote logging to see them in real-time. Logs are stored locally and never leave your devices.
+
+[tshark.dev](https://tshark.dev/) is your complete guide to working with packet captures on the command-line.
+
+[Nebula](https://github.com/slackhq/nebula) is a scalable overlay networking tool with a focus on performance, simplicity and security. It lets you seamlessly connect computers anywhere in the world. Nebula is portable, and runs on Linux, OSX, Windows, iOS, and Android. It can be used to connect a small number of computers, but is also able to connect tens of thousands of computers.
+
+[Parca](https://parca.dev/) is a tool for continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+
+[DeepFlow](https://github.com/deepflowys/deepflow) is a highly automated observability platform for cloud-native developers. Using new technologies such as eBPF, WASM, and OpenTelemetry, DeepFlow innovatively implements core mechanisms such as AutoTracing, AutoMetrics, AutoTagging, and SmartEncoding, which greatly avoids code instrumentation and significantly reduces the resource overhead of back-end data warehouses. 
+
+[Hetty](https://github.com/dstotijn/hetty) is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+
 [IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
 
 [MISP](https://www.misp-project.org/) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. MISP is designed by and for incident analysts, security and ICT professionals or malware reversers to support their day-to-day operations to share structured information efficiently.
