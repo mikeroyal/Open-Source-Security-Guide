@@ -329,6 +329,28 @@
 
 [DeepFlow](https://github.com/deepflowys/deepflow) is a highly automated observability platform for cloud-native developers. Using new technologies such as eBPF, WASM, and OpenTelemetry, DeepFlow innovatively implements core mechanisms such as AutoTracing, AutoMetrics, AutoTagging, and SmartEncoding, which greatly avoids code instrumentation and significantly reduces the resource overhead of back-end data warehouses. 
 
+[LGTM](https://github.com/marketplace/lgtm) is a tool that finds and prevents zero-days and other critical bugs, with customizable alerts and automated code review.
+
+[Semgrep](https://github.com/marketplace/semgrep-dev) is a code scanning at ludicrous speed. Find bugs and reachable dependency vulnerabilities. Enforce standards on every commit.
+
+[Socket Security](https://github.com/marketplace/socket-security) is a tool that protects your app from malicious open source dependencies.
+
+[Snyk](https://github.com/marketplace/snyk) is a tool that find, fix (and prevent!) known vulnerabilities in your code.
+
+[GitProtect.io](https://github.com/marketplace/gitprotect-io) is a free Backup for GitHub that does automatic, daily repo and metadata backup - no maintenance needed: fast restore, DR, AWS, and S3 cloud storage support.
+
+[Cloudback Backup](https://github.com/marketplace/cloudback) is a tool that automatically backups of your repos, metadata and even LFS. Backup to AWS, Azure, OneDrive, GCP, and more. Also, does instant restores.
+
+[Mend Bolt](https://github.com/marketplace/whitesource-bolt) isa that detects open source vulnerabilities in real time with suggested fixes for quick remediation.
+
+[Rewind Backups for GitHub (Formerly BackHub)](https://github.com/marketplace/backhub) is a tool that does daily, automatic backups of your repos & metadata. Restore your backups with metadata in seconds + Sync to your S3 or Azure.
+
+[Renovate](https://github.com/marketplace/renovate) is a tool that keeps dependencies up-to-date with automated Pull Requests.
+
+[GuardRails](https://github.com/marketplace/guardrails) provides continuous security feedback for modern development teams.
+
+[Dnsmasq](https://dnsmasq.org/) is a tool that provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. It is designed to be lightweight and have a small footprint, suitable for resource constrained routers and firewalls. It has also been widely used for tethering on smartphones and portable hotspots, and to support virtual networking in virtualisation frameworks. Supported platforms include Linux (with glibc and uclibc), Android, BSD, and MacOS. 
+
 [Hetty](https://github.com/dstotijn/hetty) is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 
 [IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
