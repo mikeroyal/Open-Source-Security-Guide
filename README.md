@@ -22,7 +22,7 @@
     * [Security Standards & Frameworks](#Security-Standards--Frameworks)
     * [Security Encryption](#Security-Encryption)
     * [Security Threat Models](#Security-Threat-Models)
-    * [Security Orchestration Automation and Response (SOAR)](Security-Orchestration-Automation-and-Response-SOAR)
+    * [Security Orchestration Automation and Response (SOAR)](#Security-Orchestration-Automation-and-Response-SOAR)
 
 3. [Security Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
 
