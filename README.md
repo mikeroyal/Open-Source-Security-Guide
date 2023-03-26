@@ -26,7 +26,7 @@
     * [Security Orchestration Automation and Response (SOAR)](#Security-Orchestration-Automation-and-Response-SOAR)
     * [Security Information and Event Management (SIEM)](#Security-information-and-event-management-SIEM)
     * [User and Entity Behavior Analytics (UEBA)](#User-and-Entity-Behavior-Analytics-UEBA)
-    * [Detection & Response Types](detection--response-types)
+    * [Detection & Response Types](#detection--response-types)
 
 3. [Security Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
 
