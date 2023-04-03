@@ -536,6 +536,26 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [Hetty](https://github.com/dstotijn/hetty) is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 
+[Dissect](https://github.com/fox-it/dissect) is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
+
+[Acquire](https://github.com/fox-it/acquire) is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. 
+ 
+[Faraday](https://www.faradaysec.com/) is an Open Source Vulnerability Management Platform. It aggregates and normalizes the data you load, allowing exploring it into different visualizations that are useful to managers and analysts alike.
+ 
+[Security Onion](https://github.com/Security-Onion-Solutions/securityonion) is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. 
+
+[OpenCTI](https://www.opencti.io/) is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
+
+[nDPI®](http://www.ntop.org/) is an open source LGPLv3 library for deep-packet inspection. Based on OpenDPI it includes ntop extensions. 
+
+[Azure Sentinel](https://github.com/Azure/Azure-Sentinel) is a Cloud-native SIEM for intelligent security analytics for your entire enterprise. 
+
+[NETworkManager](https://github.com/BornToBeRoot/NETworkManager) is a powerful tool for managing networks and troubleshoot network problems. It contains features like a WiFi analyzer, IP scanner, port scanner, ping monitor, traceroute, DNS lookup or a LLDP/CDP capture. 
+
+[OWASP Amass](https://owasp.org/www-project-amass/) is a tool that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+
+[Smap](https://github.com/s0md3v/Smap) is a port scanner built with shodan.io's free API. It takes same command line arguments as Nmap and produces the same output which makes it a drop-in replacament for Nmap.
+
 [IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
 
 [MISP](https://www.misp-project.org/) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. MISP is designed by and for incident analysts, security and ICT professionals or malware reversers to support their day-to-day operations to share structured information efficiently.
