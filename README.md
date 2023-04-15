@@ -486,7 +486,7 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [OpenCTI](https://www.opencti.io/) is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
 
-[Amass](https://owasp.org/www-project-amass/) is an OWASP Project that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+[OWASP Amass](https://owasp.org/www-project-amass/) is a tool that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 
 [CrowdSec](https://www.crowdsec.net/) is an open-source and collaborative security stack leveraging the crowd power to generate a global CTI database to protect the user network. It will analyze behaviors, respond to attacks & share signals across the community. 
 
@@ -552,7 +552,21 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) is a powerful tool for managing networks and troubleshoot network problems. It contains features like a WiFi analyzer, IP scanner, port scanner, ping monitor, traceroute, DNS lookup or a LLDP/CDP capture. 
 
-[OWASP Amass](https://owasp.org/www-project-amass/) is a tool that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+[ORY Oathkeeper](https://github.com/ory/oathkeeper) is an Identity & Access Proxy (IAP) and Access Control Decision API that authorizes HTTP requests based on sets of Access Rules.
+
+[Ory Kratos](https://github.com/ory/kratos) is a developer-friendly, security-hardened and battle-test Identity, User Management and Authentication system for the Cloud. The Kratos identity server (similiar to Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. 
+
+[Ory Hydra](https://github.com/ory/hydra) is a hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption. Ory Hydra is not an identity provider (user sign up, user login, password reset flow), but connects to your existing identity provider through a [login and consent app](https://www.ory.sh/docs/hydra/oauth2#authenticating-users-and-requesting-consent).
+
+[Ory Keto](https://github.com/ory/keto) is an Open Source (Go) implementation of [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190/). It ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. 
+ 
+ Develop secure coding & secure design principles
+ Train developers, architects, code reviewers, and others on secure coding practices
+ Participates in Bug Bounty Programs / Security Research
+ Expert level understanding of modern web technologies, mobile, and web application security
+ Thorough understanding of OWASP Top 10 vulnerabilities and corresponding best practices for mitigation
+ Prior experience securing large-scale web applications, including performing security code reviews, vulnerability assessments, and manual testing for logic flaws
+ The ability to perform thorough threat modeling of web applications
 
 [Smap](https://github.com/s0md3v/Smap) is a port scanner built with shodan.io's free API. It takes same command line arguments as Nmap and produces the same output which makes it a drop-in replacament for Nmap.
 
