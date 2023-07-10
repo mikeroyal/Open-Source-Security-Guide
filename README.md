@@ -577,6 +577,16 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [Socket Security](https://github.com/marketplace/socket-security) is a tool that protects your app from malicious open source dependencies.
 
+[ir-rescue](https://github.com/diogo-fernan/ir-rescue) is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+
+[Live Response Collection](https://www.brimorlabs.com/tools/) -is an automated tool that collects volatile data from Windows, MacOS, and \*nix based operating systems.
+
+[Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) is a  Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+
+[Catalyst](https://github.com/SecurityBrewery/catalyst) is a free SOAR system that helps to automate alert handling and incident response processes.
+
+[CyberCPR](https://www.cybercpr.com) is a community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
+
 [Snyk](https://github.com/marketplace/snyk) is a tool that find, fix (and prevent!) known vulnerabilities in your code.
 
 [GitProtect.io](https://github.com/marketplace/gitprotect-io) is a free Backup for GitHub that does automatic, daily repo and metadata backup - no maintenance needed: fast restore, DR, AWS, and S3 cloud storage support.
