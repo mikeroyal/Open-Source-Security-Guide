@@ -579,7 +579,7 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [ir-rescue](https://github.com/diogo-fernan/ir-rescue) is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
-[Live Response Collection](https://www.brimorlabs.com/tools/) -is an automated tool that collects volatile data from Windows, MacOS, and \*nix based operating systems.
+[Live Response Collection](https://www.brimorlabs.com/tools/) is an automated tool that collects volatile data from Windows, MacOS, and \*nix based operating systems.
 
 [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) is a  Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 
@@ -630,14 +630,6 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 [Ory Hydra](https://github.com/ory/hydra) is a hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption. Ory Hydra is not an identity provider (user sign up, user login, password reset flow), but connects to your existing identity provider through a [login and consent app](https://www.ory.sh/docs/hydra/oauth2#authenticating-users-and-requesting-consent).
 
 [Ory Keto](https://github.com/ory/keto) is an Open Source (Go) implementation of [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190/). It ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. 
- 
- Develop secure coding & secure design principles
- Train developers, architects, code reviewers, and others on secure coding practices
- Participates in Bug Bounty Programs / Security Research
- Expert level understanding of modern web technologies, mobile, and web application security
- Thorough understanding of OWASP Top 10 vulnerabilities and corresponding best practices for mitigation
- Prior experience securing large-scale web applications, including performing security code reviews, vulnerability assessments, and manual testing for logic flaws
- The ability to perform thorough threat modeling of web applications
 
 [Smap](https://github.com/s0md3v/Smap) is a port scanner built with shodan.io's free API. It takes same command line arguments as Nmap and produces the same output which makes it a drop-in replacament for Nmap.
 
