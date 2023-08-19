@@ -502,7 +502,7 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 **Incident Management** - is the process used by development and IT Operations teams to respond to an unplanned event or service interruption and restore the service to its operational state.
 
 <p align="center">
- <img src="https://github.com/mikeroyal/Open-Source-Security-Guide/assets/45159366/5998534a-781f-48b9-9f06-d24f07231129">
+ <img src="https://github.com/mikeroyal/Open-Source-Security-Guide/assets/45159366/3fb30701-30e6-4988-9beb-09413704483b">
 </p>
 
 * [Catalyst](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
