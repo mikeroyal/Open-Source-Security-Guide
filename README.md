@@ -426,6 +426,8 @@ Security information and event management (SIEM) software collects log data from
 
 [LogRhythm NextGen SIEM Platform](https://logrhythm.com/solutions/security/siem/) is a SIEM platform delivers comprehensive security analytics, UEBA, NTA, and SOAR within a single, integrated platform for rapid detection, response, and neutralization of threats.
 
+[Wazuh](https://wazuh.com/) is a unified XDR (Extended Detection & Response) and SIEM (Security Information and Event Management) solution that protects endpoints and cloud workloads from modern threats. It offers free community support, no license cost, and flexible scalability for enterprise users.
+
 ### User and Entity Behavior Analytics (UEBA)
 
 [Back to the Top](#table-of-contents)
