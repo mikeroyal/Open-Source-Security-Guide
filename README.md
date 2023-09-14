@@ -22,6 +22,7 @@
     * [Security Certifications](#Security-Certifications)
     * [Books](#books)
     * [Playbooks](#playbooks)
+    * [YouTube Tutorials](#youtube-tutorials)
 
 2. [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Open-Source-Security-Guide#security-standards-frameworks-and-benchmarks)
     * [Security Benchmarks](#Security-Benchmarks)
@@ -178,6 +179,20 @@
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
+
+### YouTube Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![The 3 A's of Open Source Security | IBM](https://ytcards.demolab.com/?id=baZH6CX6Zno&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The 3 A's of Open Source Security | IBM")](https://www.youtube.com/watch?v=baZH6CX6Zno)
+[![Careers in Cybersecurity | IBM](https://ytcards.demolab.com/?id=4CuXNs6SboU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Careers in Cybersecurity | IBM")](https://www.youtube.com/watch?v=4CuXNs6SboU)
+[![Open source security with Wazuh](https://ytcards.demolab.com/?id=peTSzcAueEc&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Open source security with Wazuh")](https://www.youtube.com/watch?v=peTSzcAueEc)
+[![Understanding Open Source Supply Chain Security](https://ytcards.demolab.com/?id=pARGj6j0-ZY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Understanding Open Source Supply Chain Security")](https://www.youtube.com/watch?v=pARGj6j0-ZY)
+[![5 Open Source Security Tools All Developers Should Know About](https://ytcards.demolab.com/?id=X-oekPI_wus&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "5 Open Source Security Tools All Developers Should Know About")](https://www.youtube.com/watch?v=X-oekPI_wus)
+[![Simulate Attacks with Infection Monkey | Cyber Security Simulation, Validation, and Mitigation](https://ytcards.demolab.com/?id=PAwTLfR5pGU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Simulate Attacks with Infection Monkey | Cyber Security Simulation, Validation, and Mitigation")](https://www.youtube.com/watch?v=PAwTLfR5pGU)
+[![How to Visualize Your NGINX Logs with GoAccess| An Nginx Log Visualizer](https://ytcards.demolab.com/?id=sdLvlKvVr7Y&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to Visualize Your NGINX Logs with GoAccess| An Nginx Log Visualizer")](https://www.youtube.com/watch?v=sdLvlKvVr7Y)
+[![Best Open-Source Network Monitoring Tools 2023](https://ytcards.demolab.com/?id=Y66aWGg2EQo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Open-Source Network Monitoring Tools 2023")](https://www.youtube.com/watch?v=Y66aWGg2EQo)
+[![Best Docker Container Monitoring Tools - Free and open source](https://ytcards.demolab.com/?id=zxAmqY63eJE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Docker Container Monitoring Tools - Free and open source")](https://www.youtube.com/watch?v=zxAmqY63eJE)
 
 # Security Standards, Frameworks and Benchmarks
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
