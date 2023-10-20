@@ -193,6 +193,10 @@
 [![How to Visualize Your NGINX Logs with GoAccess| An Nginx Log Visualizer](https://ytcards.demolab.com/?id=sdLvlKvVr7Y&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to Visualize Your NGINX Logs with GoAccess| An Nginx Log Visualizer")](https://www.youtube.com/watch?v=sdLvlKvVr7Y)
 [![Best Open-Source Network Monitoring Tools 2023](https://ytcards.demolab.com/?id=Y66aWGg2EQo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Open-Source Network Monitoring Tools 2023")](https://www.youtube.com/watch?v=Y66aWGg2EQo)
 [![Best Docker Container Monitoring Tools - Free and open source](https://ytcards.demolab.com/?id=zxAmqY63eJE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Docker Container Monitoring Tools - Free and open source")](https://www.youtube.com/watch?v=zxAmqY63eJE)
+[![Cyber Security Certificate Tier List – UPDATED (2023)](https://ytcards.demolab.com/?id=NU9LNS3-rmo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Cyber Security Certificate Tier List – UPDATED (2023)")](https://www.youtube.com/watch?v=NU9LNS3-rmo)
+[![Is Google's Cybersecurity Certification Worth It? (Deep Dive & Honest Review!)](https://ytcards.demolab.com/?id=Urluwrkhnik&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Is Google's Cybersecurity Certification Worth It? (Deep Dive & Honest Review!)")](https://www.youtube.com/watch?v=Urluwrkhnik)
+[![From Beginner to Pro: A Roadmap for Cybersecurity Careers](https://ytcards.demolab.com/?id=wtF7O89RTTU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "From Beginner to Pro: A Roadmap for Cybersecurity Careers")](https://www.youtube.com/watch?v=wtF7O89RTTU)
+
 
 # Security Standards, Frameworks and Benchmarks
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
