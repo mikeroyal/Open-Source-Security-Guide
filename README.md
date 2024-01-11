@@ -7,6 +7,10 @@
 <a href="https://github.com/mikeroyal?tab=followers">
          <img alt="followers" title="Follow me on Github for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 
+![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
+![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/open-source-security-guide?style=for-the-badge)
+
+
 #### A guide covering Security including the applications, libraries and tools that will make you better and more efficient at securing your system operations and networks.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
@@ -16,6 +20,9 @@
 1. [Getting Started with with Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide#getting-started-with-open-source-security)
     * [Security Tutorials & Resources](#Security-Tutorials--Resources)
     * [Security Certifications](#Security-Certifications)
+    * [Books](#books)
+    * [Playbooks](#playbooks)
+    * [YouTube Tutorials](#youtube-tutorials)
 
 2. [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Open-Source-Security-Guide#security-standards-frameworks-and-benchmarks)
     * [Security Benchmarks](#Security-Benchmarks)
@@ -26,6 +33,10 @@
     * [Security Orchestration Automation and Response (SOAR)](#Security-Orchestration-Automation-and-Response-SOAR)
     * [Security Information and Event Management (SIEM)](#Security-information-and-event-management-SIEM)
     * [User and Entity Behavior Analytics (UEBA)](#User-and-Entity-Behavior-Analytics-UEBA)
+    * [Detection & Response Types](#detection--response-types)
+    * [Evidence Collection](#evidence-collection)
+    * [Incident Management](#incident-management)
+    * [Sandboxing/Reversing Tools](#sandboxingreversing-tools)
 
 3. [Security Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
 
@@ -124,6 +135,69 @@
 
  - [Security Certifications Training from Pluarlsight](https://www.pluralsight.com/browse/information-cyber-security/security-certifications)
 
+### Books
+
+[Back to the Top](#table-of-contents)
+
+* [Applied Incident Response](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson's book on Incident Response.
+ 
+* [Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) - Detecting Malware and Threats in Windows, Linux, and Mac Memory.
+
+* [Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan](https://www.amazon.com/Crafting-InfoSec-Playbook-Security-Monitoring/dp/1491949406) - by Jeff Bollinger, Brandon Enright and Matthew Valites.
+
+* [Digital Forensics and Incident Response: Incident response techniques and procedures to respond to modern cyber threats](https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/183864900X) - by Gerard Johansen.
+ 
+* [Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) - By Scott J. Roberts.
+ 
+* [Incident Response & Computer Forensics, Third Edition](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/) - The definitive guide to incident response.
+
+* [Incident Response Techniques for Ransomware Attacks](https://www.amazon.com/Incident-Response-Techniques-Ransomware-Attacks/dp/180324044X) - A great guide to build an incident response strategy for ransomware attacks. By Oleg Skulkin.
+
+* [Incident Response with Threat Intelligence](https://www.amazon.com/Incident-response-Threat-Intelligence-intelligence-based/dp/1801072957) - Great reference to build an incident response plan based also on Threat Intelligence. By Roberto Martinez.
+
+* [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - By Scott J. Roberts, Rebekah Brown.
+ 
+* [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - Great reference for incident responders.
+ 
+* [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - The definitive guide to practice memory forensics. By Svetlana Ostrovskaya and Oleg Skulkin.
+ 
+* [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR.
+
+### Playbooks
+
+[Back to the Top](#table-of-contents)
+
+**Playbooks** can help automate and orchestrate your response, and can be set to run automatically when specific alerts or incidents are generated, by being attached to an analytics rule or an automation rule.
+
+* [OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
+* [NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
+* [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
+* [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
+* [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
+* [IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
+* [IR Workflow Gallery](https://www.incidentresponse.org/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow consists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
+* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
+* [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
+* [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
+
+### YouTube Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![The 3 A's of Open Source Security | IBM](https://ytcards.demolab.com/?id=baZH6CX6Zno&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The 3 A's of Open Source Security | IBM")](https://www.youtube.com/watch?v=baZH6CX6Zno)
+[![Careers in Cybersecurity | IBM](https://ytcards.demolab.com/?id=4CuXNs6SboU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Careers in Cybersecurity | IBM")](https://www.youtube.com/watch?v=4CuXNs6SboU)
+[![Open source security with Wazuh](https://ytcards.demolab.com/?id=peTSzcAueEc&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Open source security with Wazuh")](https://www.youtube.com/watch?v=peTSzcAueEc)
+[![Understanding Open Source Supply Chain Security](https://ytcards.demolab.com/?id=pARGj6j0-ZY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Understanding Open Source Supply Chain Security")](https://www.youtube.com/watch?v=pARGj6j0-ZY)
+[![5 Open Source Security Tools All Developers Should Know About](https://ytcards.demolab.com/?id=X-oekPI_wus&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "5 Open Source Security Tools All Developers Should Know About")](https://www.youtube.com/watch?v=X-oekPI_wus)
+[![Simulate Attacks with Infection Monkey | Cyber Security Simulation, Validation, and Mitigation](https://ytcards.demolab.com/?id=PAwTLfR5pGU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Simulate Attacks with Infection Monkey | Cyber Security Simulation, Validation, and Mitigation")](https://www.youtube.com/watch?v=PAwTLfR5pGU)
+[![How to Visualize Your NGINX Logs with GoAccess| An Nginx Log Visualizer](https://ytcards.demolab.com/?id=sdLvlKvVr7Y&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to Visualize Your NGINX Logs with GoAccess| An Nginx Log Visualizer")](https://www.youtube.com/watch?v=sdLvlKvVr7Y)
+[![Best Open-Source Network Monitoring Tools 2023](https://ytcards.demolab.com/?id=Y66aWGg2EQo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Open-Source Network Monitoring Tools 2023")](https://www.youtube.com/watch?v=Y66aWGg2EQo)
+[![Best Docker Container Monitoring Tools - Free and open source](https://ytcards.demolab.com/?id=zxAmqY63eJE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Docker Container Monitoring Tools - Free and open source")](https://www.youtube.com/watch?v=zxAmqY63eJE)
+[![Cyber Security Certificate Tier List – UPDATED (2023)](https://ytcards.demolab.com/?id=NU9LNS3-rmo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Cyber Security Certificate Tier List – UPDATED (2023)")](https://www.youtube.com/watch?v=NU9LNS3-rmo)
+[![Is Google's Cybersecurity Certification Worth It? (Deep Dive & Honest Review!)](https://ytcards.demolab.com/?id=Urluwrkhnik&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Is Google's Cybersecurity Certification Worth It? (Deep Dive & Honest Review!)")](https://www.youtube.com/watch?v=Urluwrkhnik)
+[![From Beginner to Pro: A Roadmap for Cybersecurity Careers](https://ytcards.demolab.com/?id=wtF7O89RTTU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "From Beginner to Pro: A Roadmap for Cybersecurity Careers")](https://www.youtube.com/watch?v=wtF7O89RTTU)
+
+
 # Security Standards, Frameworks and Benchmarks
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
 
@@ -148,6 +222,10 @@
 [Back to the Top](#table-of-contents)
 
 * [ISO Standards Catalogue](https://www.iso.org/standards.html)
+
+[Federal Risk and Authorization Management Program (FedRAMP)](https://www.gsa.gov/technology/government-it-initiatives/fedramp) is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. FedRAMP empowers agencies to use modern cloud technologies, with emphasis on security and protection of federal information, and helps accelerate the adoption of secure, cloud solutions.
+
+[Federal Information Security Management Act (FISMA)](https://csrc.nist.gov/topics/laws-and-regulations/laws/fisma)  is a United States federal law that defines a comprehensive framework to protect government information, operations, and assets against natural and manmade threats. This risk management framework was signed into law as part of the Electronic Government Act of 2002. Since 2002, FISMA's scope has widened to apply to state agencies that administer federal programs, or private businesses and service providers that hold a contract with the U.S. government.
 
 [Common Criteria for Information Technology Security Evaluation (CC)](https://www.commoncriteriaportal.org/cc/) is an international standard (ISO / IEC 15408) for computer security. It allows an objective evaluation to validate that a particular product satisfies a defined set of security requirements. 
 
@@ -367,6 +445,8 @@ Security information and event management (SIEM) software collects log data from
 
 [LogRhythm NextGen SIEM Platform](https://logrhythm.com/solutions/security/siem/) is a SIEM platform delivers comprehensive security analytics, UEBA, NTA, and SOAR within a single, integrated platform for rapid detection, response, and neutralization of threats.
 
+[Wazuh](https://wazuh.com/) is a unified XDR (Extended Detection & Response) and SIEM (Security Information and Event Management) solution that protects endpoints and cloud workloads from modern threats. It offers free community support, no license cost, and flexible scalability for enterprise users.
+
 ### User and Entity Behavior Analytics (UEBA)
 
 [Back to the Top](#table-of-contents)
@@ -398,7 +478,96 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
  * Endpoint Detection and Response systems
  * Network Traffic Analytics
  * Threat Intelligence feeds
+ 
+### Detection & Response Types
 
+[Back to the Top](#table-of-contents)
+
+ * [Endpoint Detection and Response (EDR)](https://www.crowdstrike.com/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/) is a cybersecurity service that's referred to as endpoint detection and threat response (EDTR), is an endpoint security solution that continuously monitors end-user devices to detect and respond to cyber threats like ransomware and malware.
+ 
+ * [Extended detection and response (XDR)](https://www.crowdstrike.com/cybersecurity-101/what-is-xdr/) is a cybersecurity service that collects threat data from previously siloed security tools across an organization's technology stack for easier and faster investigation, threat hunting, and response. An XDR platform can collect security telemetry from endpoints, cloud workloads, network email, and more.
+ 
+ * [Managed detection and response (MDR)](https://www.crowdstrike.com/cybersecurity-101/managed-detection-and-response-mdr/) is a cybersecurity service that combines technology and human expertise to perform threat hunting, monitoring, and response. 
+ 
+ * [Network Detection and Response (NDR)](https://www.ibm.com/topics/ndr) is a category of cybersecurity technologies that use non-signature-based methods—such as artificial intelligence, machine learning and behavioral analytics—to detect suspicious or malicious activity on the network and respond to cyber threats.
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/226541125-f6b079d5-022d-413e-ad35-bb2b80e24428.png">
+</p>
+
+### Evidence Collection
+
+[Back to Top](#table-of-contents)
+
+ **Evidence Collection** - is a set of protocols that apply to both pre-collection and post-collection evidence. This process helps with Preserving & Collecting Evidence making sure the evidence is not destroyed or devalued as a source of information.
+
+  <p align="center">
+ <img src="https://github.com/mikeroyal/Open-Source-Security-Guide/assets/45159366/6d429dcc-be27-429e-8e07-3997e0038210">
+</p>
+
+* [Acquire](https://github.com/fox-it/acquire) - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes Acquire an excellent tool to, among others, speedup the process of digital forensic triage. It uses [Dissect](https://github.com/fox-it/dissect) to gather that information from the raw disk, if possible.
+* [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
+* [bulk_extractor](https://github.com/simsong/bulk_extractor) - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
+* [Cold Disk Quick Response](https://github.com/rough007/CDQR) - Streamlined list of parsers to quickly analyze a forensic image file (`dd`, E01, `.vmdk`, etc) and output nine reports.
+* [CyLR](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+* [Forensic Artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
+* [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+* [Live Response Collection](https://www.brimorlabs.com/tools/) - Automated tool that collects volatile data from Windows, OSX, and \*nix based operating systems.
+* [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+* [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+
+### Incident Management
+
+[Back to Top](#table-of-contents)
+
+**Incident Management** - is the process used by development and IT Operations teams to respond to an unplanned event or service interruption and restore the service to its operational state.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Open-Source-Security-Guide/assets/45159366/3fb30701-30e6-4988-9beb-09413704483b">
+</p>
+
+* [Catalyst](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
+* [CyberCPR](https://www.cybercpr.com) - Community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
+* [Cyphon](https://medevel.com/cyphon/) - Cyphon eliminates the headaches of incident management by streamlining a multitude of related tasks through a single platform. It receives, processes and triages events to provide an all-encompassing solution for your analytic workflow — aggregating data, bundling and prioritizing alerts, and empowering analysts to investigate and document incidents.
+* [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto security orchestration, automation and response platform with full Incident lifecycle management and many integrations to enhance automations.
+* [DFTimewolf](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
+* [DFIRTrack](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
+* [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR/) - Cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike.
+* [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) is the premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
+* [Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
+* [Shuffle](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
+* [threat_note](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
+* [Zenduty](https://www.zenduty.com) - Zenduty is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle.
+
+
+### Sandboxing/Reversing Tools
+
+[Back to Top](#table-of-contents)
+
+**Sandboxing** - is a security practice in which you use an isolated environment, or a "sandbox," for testing. Within the sandbox you run code, analyze the code in a safe, isolated environment without affecting the application, system or platform.
+
+**Reverse-engineering** - is the process of dismantling a device, system, or piece of software to see how it works. It's done primarily to analyze and gain knowledge about the way a product works but often is used to duplicate or enhance the product.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Open-Source-Security-Guide/assets/45159366/a1e6bdcd-39d7-428f-b74f-9334707f2893">
+</p>
+
+* [Any Run](https://app.any.run/) - Interactive online malware analysis service for dynamic and static research of most types of threats using any environment.
+* [CAPEv2](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
+* [Cutter](https://github.com/radareorg/cutter) - Reverse engineering platform powered by Radare2.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
+* [Hybrid-Analysis](https://www.hybrid-analysis.com/) - Free powerful online sandbox by CrowdStrike.
+* [Intezer](https://analyze.intezer.com/#/) - Intezer Analyze dives into Windows binaries to detect micro-code similarities to known threats, in order to provide accurate yet easy-to-understand results.
+* [Joe Sandbox (Community)](https://www.joesandbox.com/) - Joe Sandbox detects and analyzes potential malicious files and URLs on Windows, Android, MacOS, Linux, and iOS for suspicious activities; providing comprehensive and detailed analysis reports.
+* [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
+* [Metadefender Cloud](https://www.metadefender.com) - Free threat intelligence platform providing multiscanning, data sanitization and vulnerability assessment of files.
+* [Radare2](https://github.com/radareorg/radare2) - Reverse engineering framework and command-line toolset.
+* [Reverse.IT](https://www.reverse.it/) - Alternative domain for the Hybrid-Analysis tool provided by CrowdStrike.
+* [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+* [Threat.Zone](https://app.threat.zone) - Cloud based threat analysis platform which include sandbox, CDR and interactive analysis for researchers. 
+* [Valkyrie Comodo](https://valkyrie.comodo.com) - Valkyrie uses run-time behavior and hundreds of features from a file to perform analysis.
+* [Viper](https://github.com/viper-framework/viper) - Python based binary analysis and management framework, that works well with Cuckoo and YARA.
+* [Virustotal](https://www.virustotal.com) - Free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners.
 
 # Security Tools
 [Back to the Top](https://github.com/mikeroyal/Open-Source-Security-Guide#table-of-contents)
@@ -432,6 +601,12 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 [Sandstorm](https://sandstorm.io/) is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. 
 
 [mkcert](https://mkcert.dev/) is a simple zero-config tool to make locally trusted development certificates with any names you'd like. 
+
+[Tailnet](https://tailscale.com/kb/1136/tailnet/) is your private network. When you log in for the first time to Tailscale on your phone, laptop, desktop, or cloud VM, a tailnet is created. For personal users, you are a tailnet of many devices and one person. Each device gets a private Tailscale IP address in the [CGNAT](https://tailscale.com/kb/1015/100.x-addresses/) range and every device can talk directly to every other device, wherever they are on the internet.
+
+[Tailscale SSH](https://tailscale.com/kb/1193/tailscale-ssh/) is a service that allows Tailscale to manage the authentication and authorization of SSH connections on your tailnet.
+
+[Tailscale Funnel](https://tailscale.com/kb/1223/tailscale-funnel/) is a feature that allows you to route traffic from the wider internet to one or more of your Tailscale nodes. You can think of this as publicly sharing a node for anyone to access, even if they don’t have Tailscale themselves. 
 
 [Universal Radio Hacker (URH)](https://github.com/jopohl/urh) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios. URH allows easy demodulation of signals combined with an automatic detection of modulation parameters making it a breeze to identify the bits and bytes that fly over the air. 
 
@@ -469,7 +644,7 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [OpenCTI](https://www.opencti.io/) is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
 
-[Amass](https://owasp.org/www-project-amass/) is an OWASP Project that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+[OWASP Amass](https://owasp.org/www-project-amass/) is a tool that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 
 [CrowdSec](https://www.crowdsec.net/) is an open-source and collaborative security stack leveraging the crowd power to generate a global CTI database to protect the user network. It will analyze behaviors, respond to attacks & share signals across the community. 
 
@@ -499,6 +674,16 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [Socket Security](https://github.com/marketplace/socket-security) is a tool that protects your app from malicious open source dependencies.
 
+[ir-rescue](https://github.com/diogo-fernan/ir-rescue) is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+
+[Live Response Collection](https://www.brimorlabs.com/tools/) is an automated tool that collects volatile data from Windows, MacOS, and \*nix based operating systems.
+
+[Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) is a  Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+
+[Catalyst](https://github.com/SecurityBrewery/catalyst) is a free SOAR system that helps to automate alert handling and incident response processes.
+
+[CyberCPR](https://www.cybercpr.com) is a community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
+
 [Snyk](https://github.com/marketplace/snyk) is a tool that find, fix (and prevent!) known vulnerabilities in your code.
 
 [GitProtect.io](https://github.com/marketplace/gitprotect-io) is a free Backup for GitHub that does automatic, daily repo and metadata backup - no maintenance needed: fast restore, DR, AWS, and S3 cloud storage support.
@@ -518,6 +703,32 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 [Matano](https://matano.dev/) is an Open source cloud-native security lake platform (SIEM alternative) for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS.
 
 [Hetty](https://github.com/dstotijn/hetty) is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+
+[Dissect](https://github.com/fox-it/dissect) is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
+
+[Acquire](https://github.com/fox-it/acquire) is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. 
+ 
+[Faraday](https://www.faradaysec.com/) is an Open Source Vulnerability Management Platform. It aggregates and normalizes the data you load, allowing exploring it into different visualizations that are useful to managers and analysts alike.
+ 
+[Security Onion](https://github.com/Security-Onion-Solutions/securityonion) is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. 
+
+[OpenCTI](https://www.opencti.io/) is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
+
+[nDPI®](http://www.ntop.org/) is an open source LGPLv3 library for deep-packet inspection. Based on OpenDPI it includes ntop extensions. 
+
+[Azure Sentinel](https://github.com/Azure/Azure-Sentinel) is a Cloud-native SIEM for intelligent security analytics for your entire enterprise. 
+
+[NETworkManager](https://github.com/BornToBeRoot/NETworkManager) is a powerful tool for managing networks and troubleshoot network problems. It contains features like a WiFi analyzer, IP scanner, port scanner, ping monitor, traceroute, DNS lookup or a LLDP/CDP capture. 
+
+[ORY Oathkeeper](https://github.com/ory/oathkeeper) is an Identity & Access Proxy (IAP) and Access Control Decision API that authorizes HTTP requests based on sets of Access Rules.
+
+[Ory Kratos](https://github.com/ory/kratos) is a developer-friendly, security-hardened and battle-test Identity, User Management and Authentication system for the Cloud. The Kratos identity server (similiar to Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. 
+
+[Ory Hydra](https://github.com/ory/hydra) is a hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption. Ory Hydra is not an identity provider (user sign up, user login, password reset flow), but connects to your existing identity provider through a [login and consent app](https://www.ory.sh/docs/hydra/oauth2#authenticating-users-and-requesting-consent).
+
+[Ory Keto](https://github.com/ory/keto) is an Open Source (Go) implementation of [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190/). It ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. 
+
+[Smap](https://github.com/s0md3v/Smap) is a port scanner built with shodan.io's free API. It takes same command line arguments as Nmap and produces the same output which makes it a drop-in replacament for Nmap.
 
 [IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
 
