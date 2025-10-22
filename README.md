@@ -685,6 +685,8 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [Snyk](https://github.com/marketplace/snyk) is a tool that find, fix (and prevent!) known vulnerabilities in your code.
 
+[Vulert](Vulert.com) secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+
 [GitProtect.io](https://github.com/marketplace/gitprotect-io) is a free Backup for GitHub that does automatic, daily repo and metadata backup - no maintenance needed: fast restore, DR, AWS, and S3 cloud storage support.
 
 [Cloudback Backup](https://github.com/marketplace/cloudback) is a tool that automatically backups of your repos, metadata and even LFS. Backup to AWS, Azure, OneDrive, GCP, and more. Also, does instant restores.
