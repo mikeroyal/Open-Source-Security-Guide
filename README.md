@@ -621,6 +621,7 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [OWASP Nettacker](https://github.com/OWASP/Nettacker) is a project created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software will utilize TCP SYN, ACK, ICMP, and many other protocols in order to detect and bypass Firewall/IDS/IPS devices. 
 
+- [Glitch](https://github.com/Ankitajainkuniya/glitch-widget) - Open-source bug reporting with AI triage and security vulnerability detection
 [Terrascan](https://runterrascan.io/) is a static code analyzer for Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. 
 
 [Sliver](https://github.com/BishopFox/sliver) is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys.
