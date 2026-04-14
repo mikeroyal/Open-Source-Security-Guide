@@ -737,6 +737,8 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [Nikto](https://github.com/sullo/nikto) is an Open Source web server scanner which performs comprehensive tests against web servers for multiple items, including over 6400 potentially dangerous files/CGIs, checks for outdated versions of over 1200 servers, and version specific problems on over 270 servers.
 
+[SiteSecurityScore](https://sitesecurityscore.com/) is a free website security scanner that analyzes HTTP security headers, TLS/SSL configuration, DNS security (DNSSEC, SPF, DMARC, DKIM), and web server hardening. It provides actionable remediation guidance and an overall security score to help developers and security teams identify and fix misconfigurations.
+
 [Scapy](https://scapy.net/) is a powerful interactive packet manipulation tool, packet generator, network scanner, network discovery tool, and packet sniffer.
 
 [OSSEC HIDS(Host Intrusion Detection System)](https://www.ossec.net/) is an open source security tool that performs log analysis, integrity checking, rootkit detection, time-based alerting and active response. In addition to its IDS functionality, it is commonly used as a SEM/SIM solution.
