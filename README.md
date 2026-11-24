@@ -689,6 +689,8 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 
 [Cloudback Backup](https://github.com/marketplace/cloudback) is a tool that automatically backups of your repos, metadata and even LFS. Backup to AWS, Azure, OneDrive, GCP, and more. Also, does instant restores.
 
+[Vulert](https://vulert.com) - Vulert secures your software supply chain by detecting and continuously monitoring vulnerabilities and malicious open-source dependencies — without accessing your source code or installing agents. It helps developers identify, prioritize, and fix vulnerabilities quickly and efficiently. Supports JavaScript, PHP, Java, Python, Go, Rust, and more.
+
 [Mend Bolt](https://github.com/marketplace/whitesource-bolt) isa that detects open source vulnerabilities in real time with suggested fixes for quick remediation.
 
 [Rewind Backups for GitHub (Formerly BackHub)](https://github.com/marketplace/backhub) is a tool that does daily, automatic backups of your repos & metadata. Restore your backups with metadata in seconds + Sync to your S3 or Azure.
